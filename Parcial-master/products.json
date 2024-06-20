@@ -1,0 +1,66 @@
+[
+    {
+        "id": 1,
+        "name": "El camino de los reyes",
+        "price": 20999,
+        "image": "Images/1.jpg",
+        "description" : "Libro"
+    },
+    {
+        "id": 2,
+        "name": "Dune",
+        "price": 19999,
+        "image": "Images/2.jpg",
+        "description" : "Dune relata la historia del planeta desértico Arrakis, única fuente de melange, la especia necesaria para el viaje interestelar y que además garantiza longevidad y poderes psíquicos. La administración de Arrakis es transferida por el emperador de la noble Casa de Harkonnen a la Casa Atreides."
+    },
+    {
+        "id": 3,
+        "name": "Y no quedó ninguno",
+        "price": 12999,
+        "image": "Images/3.jpg",
+        "description" : "Libro"
+    },
+    {
+        "id": 4,
+        "name": "Guards! Guards!",
+        "price": 14999,
+        "image": "Images/4.jpg",
+        "description" : "Libro"
+    },
+    {
+        "id": 5,
+        "name": "Kings of the Wyld",
+        "price": 16999,
+        "image": "Images/5.jpg",
+        "description" : "Libro"
+    },
+    {
+        "id": 6,
+        "name": "The Shadow of the Gods",
+        "price": 17999,
+        "image": "Images/6.jpg",
+        "description" : "Libro"
+    },
+    {
+        "id": 7,
+        "name": "Babel",
+        "price": 22999,
+        "image": "Images/7.jpg",
+        "description" : "Libro"
+    },
+    {
+        "id": 8,
+        "name": "A Deadly Education",
+        "price": 23999,
+        "image": "Images/8.jpg",
+        "description" : "Libro"
+    },
+    {
+        "id": 9,
+        "name": "Song of Achilles",
+        "price": 23999,
+        "image": "Images/9.jpg",
+        "description" : "Libro"
+    }
+
+]
